@@ -65,6 +65,6 @@ For me, **novelty is the foundation** — it fuels me to grow, build, and delive
 ## 📫 Let’s Connect  
 - 📧 Email: [shruti.goyal.zad@gmail.com]  
 - 💼 LinkedIn: [https://www.linkedin.com/in/shrutigoyal24/]  
-- 🌐 Portfolio: [[your-website-or-portfolio-url](https://shrutig-ux.github.io/Portfolio-website/)]  
+- 🌐 Portfolio: [[your-website-or-portfolio-url](https://shrutig-ux.github.io/Portfolio-website/)](https://shrutig-ux.github.io/Portfolio-website/)]  
 
 ---
